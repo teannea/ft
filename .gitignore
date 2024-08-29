@@ -1,2 +1,5 @@
 .devenv
 *.json
+*.jsonl
+*.log
+*.db
